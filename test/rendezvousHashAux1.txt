@@ -1,0 +1,2 @@
+NOTE: This is an auxiliary file created by oracle.js.
+It can be safely deleted.
